@@ -34,13 +34,13 @@ The database includes tables like:
 9. return all the track names that have a song length longer than the average song length .
    Return the name and milliseconds for each track
    order by the song length with the longest song listed first?
-10.Find how much amount spend by each customer on artists? write a query to return customer name, artist name and Total spent.
+10.Find how much amount spend by each customer on artists? write a query to return customer name, artist name and Total spent?
 11.Write a query that determines the customer that has spent the most on music for each country.
    write a query that returns the country along with the top customer and how much they spent.
-   for countries where the top amount spent is shared, provide all the customers who spent this amount.
-12.Write a query that determines the customer that has spent the most on music for each country.
+   for countries where the top amount spent is shared, provide all the customers who spent this amount
+12.Write a query that determines the customer that has spent the most on music for each country?
    write a query that returns the country along with the top customer and how much they spent.
-   for countries where the top amount spent is shared, provide all the customers who spent this amount.
+   for countries where the top amount spent is shared, provide all the customers who spent this amount?
 
 ---
 
